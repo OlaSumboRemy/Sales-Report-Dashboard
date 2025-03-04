@@ -1,5 +1,8 @@
 # Sales-Report-Dashboard
 This repository contains a dashboard visualizing the sales report for the year 2022. The dashboard provides insights into revenue, costs, pricing, profits, and payment methods. The data has been analyzed and visualized to highlight key business metrics.
+
+![dashboard](https://github.com/user-attachments/assets/03513f91-49a2-4937-85b6-66d1dd76eac0)
+
 # Sales Report 2022
 
 ## Overview
